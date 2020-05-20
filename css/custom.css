@@ -1223,6 +1223,13 @@ body.Plantae_version .footer .widget-title h3 {
 	
 }
 
+@media all and (min-width:991px) and  (max-width:1200px){
+.c-one{
+	margin-left: 29%!important;
+	width:150%!important;
+}
+}
+
 .preloader {
     width: 350px;
 }
