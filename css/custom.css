@@ -287,7 +287,8 @@ header {
 }
  @media only screen and (max-width: 1199px) and (min-width: 992px) {
 	 .single_attach_item {
-		 height: 300px;
+		     width: 26%;
+                     height: 395px;
 	}
 }
  .single_attach_item .attach-thumbnail {
@@ -1228,6 +1229,17 @@ body.Plantae_version .footer .widget-title h3 {
 	margin-left: 29%!important;
 	width:150%!important;
 }
+.item7{
+        width: 51%;
+}	
+.item6{
+	top: 310px;
+	}
+	
+.item5{
+	top: 310px;
+	}
+	
 }
 
 .preloader {
